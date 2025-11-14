@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I am currently studying Systems Analysis and Development at the Faculdade de Tecnologia do Estado de São Paulo(FATEC);<br><br> - 🌱 I’m currently learning PHP, JavaScript and SQL;<br><br> - 💬 Ask me about C#, HTML, CSS, JavaScript, PHP and SQL~;<br><br> - 📫 How to reach me alexandre.s.s.c@hotmail.com.<br><br>
+- 🔭 I am currently studying Systems Analysis and Development at the Faculdade de Tecnologia do Estado de São Paulo(FATEC);<br><br> - 🌱 I’m currently learning PHP, JavaScript and SQL;<br><br> - 💬 Ask me about C#, Python, JavaScript, PHP and SQL~;<br><br> - 📫 How to reach me alexandre.s.s.c@hotmail.com.<br><br>
 
 
 ## 🌐 Socials:
